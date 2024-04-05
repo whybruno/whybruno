@@ -18,6 +18,8 @@
 
 - 💻 This was **my first paid project** as a freelancer at **15 years old**, after 6 months of self-teaching in HTML, CSS and designing with Adobe Fireworks. I did all the design, coding and deployment.
 
+![myFirstProjectAt15YearsOld](https://github.com/whybruno/whybruno/blob/main/freole-page.png?raw=true)
+
 ## PORTFOLIO
 
 - ⚠️ [whyBruno](https://whybruno.dev) **COMING SOON**
