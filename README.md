@@ -14,7 +14,7 @@
 - 🐤 Certified in **Web Developer** by **Codecademy** (August 2022 until February 2023)
 - 🐣 Certified in **Graphic Designer** by **Microlins** (June 2012 until December 2013)
 
-## MY FIRST PROJECT DONE IN 2009 (15 years old)
+## MY REAL FIRST PROJECT DONE IN 2009 (15 years old)
 
 - 💻 This was **my first paid project** as a freelancer at **15 years old**, after 6 months of self-teaching in HTML, CSS and designing with Adobe Fireworks. I did all the design, coding and deployment.
 
