@@ -24,6 +24,6 @@
 
 - ⚠️ [whyBruno](https://whybruno.dev) **COMING SOON**
 
-## SOCIAL MEDIAS
+## SOCIAL MEDIA
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/whybruno)
